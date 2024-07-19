@@ -9,3 +9,5 @@ The `compare` function for `memo` does not perform deep equality checks. When ob
 ## Demo
 
 ![](./demo.gif)
+
+![](./table-demo.gif)

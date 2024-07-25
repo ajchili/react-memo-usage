@@ -11,3 +11,5 @@ The `compare` function for `memo` does not perform deep equality checks. When ob
 ![](./demo.gif)
 
 ![](./table-demo.gif)
+
+![](./table-column-props-demo.gif)

@@ -1,4 +1,5 @@
 import { BasicExample } from "./views/BasicExample.js";
+import { ColumnPropsTableExample } from "./views/ColumnPropsTableExample.js";
 import { TanStackTableExample } from "./views/TanStackTableExample.js";
 
 export function App() {
@@ -7,6 +8,8 @@ export function App() {
       <BasicExample />
       <hr />
       <TanStackTableExample />
+      <hr />
+      <ColumnPropsTableExample />
     </>
   );
 }
